@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #define COR 0
 #define PIC 1
 #define DIA 2
@@ -179,7 +180,7 @@ carta manita[5];
 int i, j, k, m, n;
 int tot;
 
-main (int argc, char *argv[])
+int main (int argc, char *argv[])
 {
    
   tot = 0;
