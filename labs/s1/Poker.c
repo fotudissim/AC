@@ -26,6 +26,9 @@ int escalera = 0;
 int escaleracolor = 0;
 int V = 0;
 
+int Matriz[10][10];
+int i = 0;
+int suma = 0;
 
 void Init (carta baraja[52])
 { int i;
